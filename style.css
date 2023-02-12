@@ -19,6 +19,7 @@
 }
 
 .head-img img{
+    padding-inline: 15px;
     width: 70px;
 }
 #num {
